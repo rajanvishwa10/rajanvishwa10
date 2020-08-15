@@ -20,3 +20,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a CSGO pro.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=rajanvishwa10&show_icons=true&cache_seconds=86400)
