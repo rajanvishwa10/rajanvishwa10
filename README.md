@@ -23,25 +23,25 @@
 **Socials:** 
 
 <a href="https://twitter.com/rajanvishwa_10">
-  <img align="left" alt="Rajan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Rajan's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/rajanv049">
-  <img align="left" alt="Rajan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rajan's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/rajanvishwa10">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Pawan's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/rajanvishwa_10/">
-  <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rajan's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://instagram.com/rajanvishwa10/">
-  <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rajan's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/rajan.vishwakarma.921/">
-  <img align="left" alt="Rajan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rajan's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC-TkQ_m3NhknENFcN2IzZHw?view_as=subscriber/">
-  <img align="left" alt="Rajan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Rajan's Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
