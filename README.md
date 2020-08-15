@@ -18,5 +18,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Gmail] rajanvishwa10@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am CSGO pro.
+- ⚡ Fun fact: ... I am a CSGO pro.
 
