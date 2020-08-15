@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/rajanvishwa10" alt="profile views"> •  
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rajanvishwa_10?label=rajan&style=social"></a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rajanvishwa_10?label=rajan&style=social"></a>  •
   <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton">Twitter</a> •
   <a href="https://github.com/rajanvishwa10/rajanvishwa10">README</a> 
 </p>
