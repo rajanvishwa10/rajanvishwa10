@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... Flutter and Kotline
+- 🌱 I’m currently learning ... Flutter and Kotlin
 - 👯 I’m looking to collaborate on ... Android
 - 🤔 I’m looking for help with ... Flutter
 - 💬 Ask me about ... Anything
