@@ -20,8 +20,32 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a CSGO pro.
 
-**Languages and Tools:**  
+<a href="https://twitter.com/rajanvishwa_10">
+  <img align="left" alt="Rajan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/rajanv049">
+  <img align="left" alt="Rajan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/rajanvishwa10">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/rajanvishwa_10/">
+  <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://instagram.com/rajanvishwa10/">
+  <img align="left" alt="Rajan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/rajan.vishwakarma.921/">
+  <img align="left" alt="Rajan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC-TkQ_m3NhknENFcN2IzZHw?view_as=subscriber/">
+  <img align="left" alt="Rajan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
+<br/>
+<br/>
+
+**Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
