@@ -9,7 +9,7 @@
   <img src="https://gpvc.arturio.dev/rajanvishwa10" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton"><img src="https://img.shields.io/appveyor/build/rajanvishwa_10/rajan"></a>  •
   <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton">Twitter</a> •
-  <a href="https://github.com/rajanvishwa10/README">Work README</a> 
+  <a href="https://github.com/rajanvishwa10/README">README</a> 
 </p>
 
 Here are some ideas to get you started:
