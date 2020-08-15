@@ -1,6 +1,5 @@
-<h3 align="center">
+
 ![](87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
-</h3>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/rajanvishwa10" alt="profile views"> •  
@@ -21,4 +20,3 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am CSGO pro.
 
--
