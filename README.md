@@ -20,6 +20,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a CSGO pro.
 
+**Socials:** 
+
 <a href="https://twitter.com/rajanvishwa_10">
   <img align="left" alt="Rajan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
