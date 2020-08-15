@@ -33,6 +33,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanvishwa10&theme=light&hide_langs_below=1" />
 </a>
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajanvishwa10&show_icons=true&cache_seconds=86400)
 
