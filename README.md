@@ -8,7 +8,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton">Twitter</a> •
   <a href="https://www.linkedin.com/in/rajanv049/">LinkedIn</a> •
   <a href="https://www.instagram.com/rajanvishwa_10/">Instagram</a> •
-  <a href="https://github.com/rajanvishwa10/rajanvishwa10">README</a> 
+  <a href="https://github.com/rajanvishwa10?tab=repositories">Repository</a> 
 </p>
 
 
