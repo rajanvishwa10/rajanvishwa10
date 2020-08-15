@@ -14,7 +14,6 @@
   <a href="https://github.com/rajanvishwa10/rajanvishwa10">README</a> 
 </p>
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Flutter and Kotlin
 - 👯 I’m looking to collaborate on ... Android
