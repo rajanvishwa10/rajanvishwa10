@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/rajanvishwa10" alt="profile views"> •  
-   <a href="https://github.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton"><img alt="GitHub followers" src="https://img.shields.io/github/followers/rajanvishwa10?label=rajan&style=social"></a>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rajanvishwa10?label=rajan&style=social">
   <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rajanvishwa_10?label=rajan&style=social"></a>  •
   <a href="https://twitter.com/intent/follow?screen_name=rajanvishwa_10&tw_p=followbutton">Twitter</a> •
   <a href="https://www.linkedin.com/in/rajanv049/">LinkedIn</a> •
