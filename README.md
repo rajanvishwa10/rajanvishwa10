@@ -29,8 +29,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<a href="https://github.com/rajnvishwa10">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanvishwa10&theme=light&hide_langs_below=1/>
+<a href="https://github.com/rajanvishwa10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanvishwa10&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/rajanvishwa10">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajanvishwa10&show_icons=true&theme=light&line_height=27" alt="Rajan's github stats"/>
