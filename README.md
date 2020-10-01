@@ -11,7 +11,7 @@
   <a href="https://github.com/rajanvishwa10?tab=repositories">Repository</a> 
 </p>
 
-- 🔭 I’m currently working on Android
+- 🔭 I’m currently working on Android  <img src = "https://static.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" align = "right" height =300 width = 400>
 - 🌱 I’m currently learning Flutter and Kotlin
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with Flutter
